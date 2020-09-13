@@ -29,5 +29,13 @@ Research Papers:
 Research Papers:
 - [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://arxiv.org/ftp/arxiv/papers/1511/1511.00083.pdf)
 
+#### Spike-Timing Dependent Plasticity (STDP):
+Publications:
+- [Spike Timing Dependent Plasticity](http://www.scholarpedia.org/article/Spike-timing_dependent_plasticity#fig:STDP-Fig1.JPEG)
+
+Research Papers:
+- [Training Deep Spiking Convolutional Neural Networks with STDP-Based Unsupervised Pre-training Followed by Supervised Fine-Tuning](https://www.frontiersin.org/articles/10.3389/fnins.2018.00435/full)
+
+
 ## Knowledge Representations:
 
