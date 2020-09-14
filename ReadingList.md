@@ -2,6 +2,16 @@
 Research media that I have read/watched/interacted with, am reading/watching/interacting with, and intend to 
 read/watch/interact with:
 
+## Recurrent Neural Networks:
+### Overview and Field Surveys:
+Research Papers:
+- [Recent Advances in Recurrent Neural Networks](https://arxiv.org/pdf/1801.01078.pdf) in 
+`Resources/RecurrentNeuralNets/FieldSurveys/RecentAdvancesInRecurrentNeuralNetworks.pdf`
+- [Survey on Recurrent Neural Network in Language Processing](https://www.researchgate.net/publication/319937209_Survey_on_Recurrent_Neural_Network_in_Natural_Language_Processing)
+in `Resources/RecurrentNeuralNets/FieldSurveys/SurveyOnRecurrentNeuralNetworkInNaturalLanguageProcessing.pdf`
+- [A Survey on the Application of Recurrent Neural Networks to Statistical Language Modeling](https://www.sciencedirect.com/science/article/pii/S088523081400093X)
+in `Resources/RecurrentNeuralNets/FieldSurveys/ASurveyOnTheApplicationOfRNNsToStatisticalLangaugeModeling.pdf`
+
 ## Biologically Inspired Artificial Neural Networks:
 ### Theoretical Neuroscience
 #### The Hierarchical Temporal Memory (HTM)
@@ -36,6 +46,8 @@ Publications:
 Research Papers:
 - [Training Deep Spiking Convolutional Neural Networks with STDP-Based Unsupervised Pre-training Followed by Supervised Fine-Tuning](https://www.frontiersin.org/articles/10.3389/fnins.2018.00435/full)
 
-
-## Knowledge Representations:
-
+## ANN Visualization and Interpretability:
+### Recurrent Neural Networks:
+Research Papers:
+- [RNNbow: Visualizing Learning via Backpropagation Gradients in RNNs](https://arxiv.org/pdf/1907.12545.pdf) in
+`Resources/RecurrentNeuralNets/Visualization/RNNbow.pdf`
