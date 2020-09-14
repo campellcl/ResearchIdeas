@@ -4,6 +4,10 @@ read/watch/interact with:
 
 ## Recurrent Neural Networks:
 ### Overview and Field Surveys:
+
+Web Sites:
+- [Written Memories: Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
+
 Research Papers:
 - [Recent Advances in Recurrent Neural Networks](https://arxiv.org/pdf/1801.01078.pdf) in 
 `Resources/RecurrentNeuralNets/FieldSurveys/RecentAdvancesInRecurrentNeuralNetworks.pdf`
