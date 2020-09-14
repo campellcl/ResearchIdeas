@@ -1,4 +1,8 @@
 # Implementation Goals:
+A collection of research papers with corresponding algorithms and/or neural network architectures that I personally find
+interesting, and would like to implement. As I make progress with these implementations (most likely in separate repositories)
+I will maintain links to the implementations here, on this page.
+
 ## [Recurrent Neural Networks (RNNs)](https://en.wikipedia.org/wiki/Recurrent_neural_network):
 ### 1. [Long Short-term Memory Network (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory):
 As far as I know, this is the first research paper (dating back to 1997) introducing the LSTM recurrent neural network 
